@@ -11,6 +11,6 @@ how to make a hexo
 http://windrunnerlihuan.com/2016/05/27/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%8E%86%E7%A8%8B/#more
 
 
-FAQ
+FAQ   
 Q: 我输入hexo server后在4000端口并没有显示网页。有时会循环打印HEART，这是怎么回事   
 A: 端口占用，hexo server -p 4001,或者其它的
